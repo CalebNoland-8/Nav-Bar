@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    display: inline;
+    justify-content: space-between;
+    vertical-align: middle;
+
+    margin-right: 300px;
+}
+p{
+    display: inline;
+    justify-content: space-between;
+    vertical-align: middle;
+
+    margin-left:5px;
+    margin-right:5px;
+
+    font-size:25px;
+
+}
+
+.img{
+    display: inline;
+    justify-content: space-between;
+    
+
+    text-align: right;
+}
+
+.facebook{
+    width: 20px;
+    height: 20px;
+
+    text-align: right;
+    
+}
+.twitter{
+    width: 20px;
+    height: 20px;
+    text-align: right;
+}
+.link{
+    width: 20px;
+    height: 20px;
+    text-align: right;
+}
+.diamond{
+    width: 20px;
+    height: 20px;
+    text-align: right;
+}
